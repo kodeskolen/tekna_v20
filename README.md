@@ -10,7 +10,7 @@ Kurset fokuserer på programmeringseksempler som er relevante for matematikk og 
 
 ## Hva er anbefalte forkunnskaper?
 Kurset er en fortsettelse av et introduksjonskurs og antar at du er kjent med grunneleggende programmeringskonsepter (variabler, løkker, betingelser, funksjoner og plotting).
-En gjennomgang av disse finner du i [materialet for forrige kurs](https://github.com/kodeskolen/tekna_v20/tree/master/introkurs/kompendier)
+En gjennomgang av disse finner du i [materialet for forrige kurs](https://github.com/kodeskolen/tekna_v20/tree/master/introkurs/kompendier). 
 [del 2](https://github.com/kodeskolen/tekna_v20/blob/master/introkurs/kompendier/tekna_introkurs_del2.pdf) av materialet inneholder også kode og forklaring for hvordan man kan gå fra gjettelek til numerisk løsning av likninger med halveringsmetoden.
 
 Hvis du ikke deltok på introkurset anbefales det å ta en titt på kompendiet og de tilhørende oppgavesamlingene. Oppgavesamlingene (med fasit) finner du [her](https://github.com/kodeskolen/tekna_v20/tree/master/introkurs/oppgaver)
