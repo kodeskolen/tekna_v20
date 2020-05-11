@@ -4,6 +4,12 @@
 ## Hva er dette repositoriet?
 Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmering for lærere som arrangeres av [Tekna Realistene](https://www.tekna.no/realistene) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
 
+## Materiale
+### Dag 1
+* Oppgaver for dag 1 finner du [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/oppgaver_dag1.pdf)
+* Kompedie for Mone Carlo estimering av π er [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/pi_estimering_kompedie.pdf)
+* Et hefte med bonusoppgaver er å finne [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/oppgaver_bonus.pdf)
+
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
 Kurset fokuserer på programmeringseksempler som er relevante for matematikk og realfag. Sammen skal vi se på hvordan man kan estimere pi ved å dra nytte av sammenhengen mellom dartkast og Monte Carlo-integrasjon. Vi skal simulere og visualisere befolkningsvekst med løkker og plotteverktøy og bruke interaktive brytere i Jupyter Notebook til å utforske forholdet mellom momentanfart og numerisk derivasjon. Kurset vil starte med en rask repetisjon av variabler, løkker, betingelser og funksjoner med relafagsrelevante eksempler.
