@@ -9,7 +9,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 * Oppgaver for dag 1 finner du [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/oppgaver_dag1.pdf)
 * Kompedie for Mone Carlo estimering av π er [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/pi_estimering_kompedie.pdf)
 * Et hefte med bonusoppgaver er å finne [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/oppgaver_bonus.pdf)
-* koden fra livekodingen på mandag er [her](https://github.com/kodeskolen/tekna_v20/tree/master/dag1/livekode-mandag)
+* Koden fra livekodingen på mandag er [her](https://github.com/kodeskolen/tekna_v20/tree/master/dag1/livekode-mandag)
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
