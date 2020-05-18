@@ -4,7 +4,7 @@ Hvis vi vil kjøre koden vår med Google Colab, så trenger vi endre noen småti
 
 ## Denne mappen:
  * [Introduksjon til notebooks](https://colab.research.google.com/github/kodeskolen/tekna_v20/blob/master/dag2/google_colab/Introduksjon%20til%20notebooks.ipynb)
- * [OPPGAVER%20-%20Introduksjon%20til%20notebooks](https://colab.research.google.com/github/kodeskolen/tekna_v20/blob/master/dag2/google_colab/OPPGAVER%20-%20Introduksjon%20til%20notebooks.ipynb)
+ * [OPPGAVER - Introduksjon til notebooks](https://colab.research.google.com/github/kodeskolen/tekna_v20/blob/master/dag2/google_colab/OPPGAVER%20-%20Introduksjon%20til%20notebooks.ipynb)
  * [BONUS - Responsive notebooks](https://colab.research.google.com/github/kodeskolen/tekna_v20/blob/master/dag2/google_colab/BONUS%20-%20Responsive%20notebooks.ipynb)
 
 ## Befolkningsvekst:
