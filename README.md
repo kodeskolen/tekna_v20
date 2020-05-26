@@ -11,10 +11,13 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 * Et hefte med bonusoppgaver er å finne [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/oppgaver_bonus.pdf)
 * Koden fra livekodingen på mandag er [her](https://github.com/kodeskolen/tekna_v20/tree/master/dag1/livekode-mandag)
 * Koden fra livekodingen på onsdag er [her](https://github.com/kodeskolen/tekna_v20/tree/master/dag1/livekode-onsdag)
+* Video av livekodingen er [her](https://youtu.be/hIuNJZCoxc8)
 
 ### Dag 2:
 * Hvis du arbeider med filer lokalt på din egen maskin finner du notatbøkene vi arbeider med [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag2/notebooks/)
 * Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag2/google_colab/)
+* Video av livekodingen er [her](https://youtu.be/cm5a6sSEntI)
+
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
